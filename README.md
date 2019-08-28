@@ -1,4 +1,4 @@
-# VAMPIRE <img src="figures/bat.png" width="60"> 
+# ANA!!! <img src="figures/bat.png" width="60"> 
 
 VAriational Methods for Pretraining In Resource-limited Environments
 
